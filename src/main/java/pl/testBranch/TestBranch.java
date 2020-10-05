@@ -1,4 +1,4 @@
-package pl.testBrunch;
+package pl.testBranch;
 
 import java.util.Objects;
 
