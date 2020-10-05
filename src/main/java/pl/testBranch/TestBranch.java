@@ -4,6 +4,7 @@ import java.util.Objects;
 
 public class TestBranch {
     private String name;
+    private String master;
 
     public TestBranch(String name) {
         this.name = name;
